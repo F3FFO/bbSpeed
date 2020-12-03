@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://github.com/F3FFO/bbSpeed/icons/logo.png" width="75" height="75"/>
+  <img src="https://github.com/F3FFO/bbSpeed/blob/master/icons/logo.png" width="75" height="75"/>
 </p>
 
 <h1 align="center">bbSpeed</h1>
 
-*bbSpeed is a chromium extension to manage playback speed of video for eu.bbcollab site.
+*bbSpeed is a chromium extension to manage playback speed of video for eu.bbcollab site.*
 
 ### Installation Instructions
 **Google Chrome / Microsoft Edge**
