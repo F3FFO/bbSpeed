@@ -1,0 +1,25 @@
+{
+    "name": "bbSpeed",
+    "version": "0.0.1",
+    "manifest_version": 2,
+    "description": "This add a menu to select speed playback of video on 'bbcollab' website.",
+    "homepage_url": "https://github.com/F3FFO/bbSpeed",
+    "permissions": [
+        "contextMenus",
+        "activeTab",
+        "tabs"
+    ],
+    "icons": {
+        "16": "icons/icon16.png",
+        "48": "icons/icon48.png",
+        "128": "icons/icon128.png"
+    },
+    "background": {
+        "scripts": ["js/background.js"],
+        "persistent": false
+    },
+    "content_scripts": [{
+        "matches": ["*://eu.bbcollab.com/collab/ui/session/playback/*"],
+        "js": ["js/content.js"]
+    }]
+}
