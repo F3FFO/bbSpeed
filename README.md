@@ -26,15 +26,15 @@
 #### Support development [Buy me a Coffee](https://www.buymeacoffee.com/F3FFO)
 
 <a href="https://www.buymeacoffee.com/F3FFO">
-    <img src="https://github.com/F3FFO/Roll20-Darkness/blob/141eade68e3206afa0f365703b54233f4e334639/img/readme/bmc.svg" width="200" height="auto" alt="BmC" />
+    <img src="https://github.com/F3FFO/F3FFO-README-Template/blob/8905b2cfb406a0b5c1a82459a96e067a00b0023e/img/bmc.svg" width="200" height="auto" alt="BmC" />
 </a>
 
 #### or Donate
 
 |                                                                                                        | Address                                    |
 | ------------------------------------------------------------------------------------------------------ | ------------------------------------------ |
-| <img src="https://github.com/F3FFO/Roll20-Darkness/blob/141eade68e3206afa0f365703b54233f4e334639/img/readme/bitcoin.svg" alt="Bitcoin" width="25px" height="25px" align="left"/> Bitcoin      | 374h1Fnn8t6hbz2NFNPvKCkUwAAyroNk4Y         |
-| <img src="https://github.com/F3FFO/Roll20-Darkness/blob/141eade68e3206afa0f365703b54233f4e334639/img/readme/ethereum.svg" alt="Ethereum" width="25px" height="25px" align="left" /> Ethereum  | 0x22742f820592721E4F5F756a852CB1eFb5Be9Ae5 |
+| <img src="https://github.com/F3FFO/F3FFO-README-Template/blob/8905b2cfb406a0b5c1a82459a96e067a00b0023e/img/bitcoin.svg" alt="Bitcoin" width="25px" height="25px" align="left"/> Bitcoin      | 374h1Fnn8t6hbz2NFNPvKCkUwAAyroNk4Y         |
+| <img src="https://github.com/F3FFO/F3FFO-README-Template/blob/8905b2cfb406a0b5c1a82459a96e067a00b0023e/img/ethereum.svg" alt="Ethereum" width="25px" height="25px" align="left" /> Ethereum  | 0x22742f820592721E4F5F756a852CB1eFb5Be9Ae5 |
 
 ---
 
