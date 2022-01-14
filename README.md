@@ -38,10 +38,8 @@
 ## License
 
 ```
- GNU GENERAL PUBLIC LICENSE
- Version 3, 29 June 2007
-
- Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
- Everyone is permitted to copy and distribute verbatim copies
- of this license document, but changing it is not allowed.
+    bbSpeed  Copyright (C) 2021 F3FFO - Federico Pierantoni
+    This program comes with ABSOLUTELY NO WARRANTY; for details type `show w'.
+    This is free software, and you are welcome to redistribute it
+    under certain conditions; type `show c' for details.
 ```
